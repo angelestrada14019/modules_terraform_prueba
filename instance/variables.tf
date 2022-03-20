@@ -13,6 +13,9 @@ variable "sg_name" {
 variable "ingres_rules" {
    
 }
+variable "egress_rules" {
+   
+}
 variable "key_pair" {
  
 }
